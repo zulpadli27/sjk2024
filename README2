@@ -1,1 +1,5 @@
 ini percobaan pull dari Github ke lokal komputer
+
+#git add README2
+#git commit –m "Menambah beberapa kata pada file README2"
+#git push origin main
